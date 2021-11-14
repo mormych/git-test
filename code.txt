@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+
+<html lang="pl">
+
+	<head>
+		<title>Stronka</title>
+	</head>
+
+	<body>
+		<p>Witam</p>
+	</body>
+</html>
